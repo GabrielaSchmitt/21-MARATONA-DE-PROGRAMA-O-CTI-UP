@@ -31,7 +31,7 @@ Para rodar os códigos é necessária uma IDE Python como o **VSCODE, Pycharm, G
 
 ✨ Obrigada pela atenção! ✨
 
--------
+--------
 
 <a id="en-readme"></a>
 ## English | [Português](#pt-readme)
