@@ -10,19 +10,19 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dezesseis d
 
 ## Programas desenvolvidos   |     Linguagem
 
-- [Drought]([https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP-/blob/main/Drought.py) `Python`
-- [Critical Wave](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP-/blob/main/CriticalWave.py) `Python`
-- [Six Odd Numbers](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/SixOddNumbers.py) `Python`
-- [Quadrant](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Quadrant.py) `Python`
-- [Profit](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Profit.abap) `Python`
-- [Tri-du](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Tri-du.py) `Python`
-- [Identifying Tea](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/IdentifyingTea.py) `Python`
-- [Pneu](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Pneu.py) `Python`
-- [Telescópio](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Telescopio.py) `Python`
-- [Tacógrafo](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Tacografo.py) `Python`
-- [Hard choice](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/HardChoice.py) `Python`
-- [How Much Cassava?](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/HowMuchCassava.py) `Python`
-- [Sequência Secreta](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/SequenciaSecreta.py) `Python`
+- [Drought](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Drought.py) `Python`
+- [Critical Wave](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/CriticalWave.py) `Python`
+- [Six Odd Numbers](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/SixOddNumbers.py) `Python`
+- [Quadrant](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Quadrant.py) `Python`
+- [Profit](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Profit.py) `Python`
+- [Tri-du](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Tri-du.py) `Python`
+- [Identifying Tea](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/IdentifyingTea.py) `Python`
+- [Pneu](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Pneu.py) `Python`
+- [Telescópio](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Telescopio.py) `Python`
+- [Tacógrafo](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Tacografo.py) `Python`
+- [Hard choice](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/HardChoice.py) `Python`
+- [How Much Cassava?](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/HowMuchCassava.py) `Python`
+- [Sequência Secreta](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/SequenciaSecreta.py) `Python`
 
 ## Como rodar os códigos
 
