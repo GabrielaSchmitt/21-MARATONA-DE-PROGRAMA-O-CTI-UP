@@ -48,7 +48,7 @@
 # 3
 
 
-# Status: (Runtime error):
+# Status: (Runtime error)
 
 for i in range(222):
     count = 0
