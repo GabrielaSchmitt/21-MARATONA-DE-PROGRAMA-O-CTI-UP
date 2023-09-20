@@ -18,7 +18,7 @@
 # 17
 # 19
 
-# Status: (Accepted):
+# Status: (Accepted)
 
 num = int(input(""))
 for x in range(num, num + 12):
