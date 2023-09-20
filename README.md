@@ -10,8 +10,8 @@ Olá, este repositório contém alguns códigos desenvolvidos no dia dezesseis d
 
 ## Programas desenvolvidos   |     Linguagem
 
-- [Drought](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Drought.py) `Python`
-- [Critical Wave](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP/main/CriticalWave.py) `Python`
+- [Drought]([https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP-/blob/main/Drought.py) `Python`
+- [Critical Wave](https://github.com/GabrielaSchmitt/21-MARATONA-DE-PROGRAMA-O-CTI-UP-/blob/main/CriticalWave.py) `Python`
 - [Six Odd Numbers](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/SixOddNumbers.py) `Python`
 - [Quadrant](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Quadrant.py) `Python`
 - [Profit](https://github.com/GabrielaSchmitt/16-MARATONA-DE-PROGRAMA-O-CTI-UP/blob/main/Profit.abap) `Python`
