@@ -35,7 +35,7 @@
 # 3-0 1-1
 # Consumo medio: 0.75 m3.
 #
-# Status : (Time limit exceeded):
+# Status : (Time limit exceeded)
 
 import math
 
