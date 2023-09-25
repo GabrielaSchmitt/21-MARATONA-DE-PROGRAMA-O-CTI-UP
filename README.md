@@ -58,7 +58,7 @@ Hi, nice to see you around! This repository contains some Python codes develped 
 
 ## How to run the codes
 
-To run the codes you need a Python IDE such as **VSCODE, PyCharm, Google Colab**   just download the entire code and click RUN to see magic happening on your Java Console! 
+To run the codes you need a Python IDE such as **VSCODE, PyCharm, Google Colab**   just download the entire code and click RUN to see magic happening on your Console! 
 
 
 ✨ Thanks for your attention! ✨
